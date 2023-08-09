@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm fsck, I'm a senior vulnerability researcher at Microsoft, I also find exploits in block game
+
 <!--
 **fsckmc/fsckmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
